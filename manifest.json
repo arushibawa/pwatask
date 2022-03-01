@@ -1,0 +1,9 @@
+{
+    "name": "PWAtask",
+    "short_name": "PWAtask",
+    "start_url": ".",
+    "background_color": "6dcdb1",
+    "display": "standalone",
+    "theme_color": "#009578"
+ 
+}
